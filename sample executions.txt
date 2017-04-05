@@ -1,0 +1,18 @@
+Enter a first name and a last name, separated by at least a space:
+Mike   Tindall
+Thank you Tindall, Mike for entering Mike   Tindall.
+The First Name is less than the Last Name.
+
+Enter a first name and a last name, separated by at least a space:
+Fred Flintstone
+Thank you Flintstone, Fred for entering Fred Flintstone.
+The Last Name is less than the First Name.
+
+Enter a first name and a last name, separated by at least a space:
+Charlie Ang
+Thank you Ang, Charlie for entering Charlie Ang.
+The Last Name is less than the First Name.
+
+Enter a first name and a last name, separated by at least a space:
+
+Press any key to continue . . .
